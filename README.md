@@ -2,7 +2,7 @@
 
 ### About Me:
 * I’m currently studying at Shahid Beheshti University.
-* How to reach me: via mail[:to]  = 'z.ghiac@gmail.com'
+* How to reach me: via [mail](mail[:to]  = 'z.ghiac@gmail.com')
 
 
 <!--
