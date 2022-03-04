@@ -1,9 +1,8 @@
-## Hi there 👋
-## I'm Zahra
+## Hi there 👋 I'm Zahra
 
 ### About Me:
 * I’m currently studying at Shahid Beheshti University.
-* How to reach me: via [mail](z.ghiac@gmail.com)
+* How to reach me: via mail[:to]  = 'z.ghiac@gmail.com'
 
 
 <!--
